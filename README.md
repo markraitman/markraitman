@@ -1,4 +1,4 @@
-[![MasterHead](https://www.lexone.ru/storage/2021/11/ios-developer.jpg)]([https://github.com/markraitman](https://developer.apple.com/tutorials/app-dev-training) 
+[![MasterHead](https://www.lexone.ru/storage/2021/11/ios-developer.jpg)]([https://github.com/markraitman](https://developer.apple.com/tutorials/app-dev-training)) 
 <h1 align="left">Hi 👋, I'm Mark Raitman</h1>
 <h3 align="left">A passionate iOS developer 🧑🏻‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
