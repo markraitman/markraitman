@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **markraitman@mail.ru**
 
-- ⚡ Fun fact: [**The green code in The Matrix was actually created from symbols in the code designer’s wife’s sushi cookbook.**](cnet.com)
+- ⚡ Fun fact: [**The green code in The Matrix was actually created from symbols in the code designer’s wife’s sushi cookbook.**](https://www.cnet.com/culture/entertainment/lego-ninjago-movie-simon-whiteley-matrix-code-creator/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
