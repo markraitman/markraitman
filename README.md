@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Mark Raitman</h1>
 <h3 align="left">A passionate iOS developer 🧑🏻‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"]>
 
 
 
@@ -32,4 +32,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markraitman&layout=compact" alt="markraitman" /></a> </p>
 
-[![MasterBottom](https://smashswift.com/wp-content/uploads/2019/04/pass-by-reference.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) 
+[![MasterBottom](https://smashswift.com/wp-content/uploads/2019/04/pass-by-reference.gif)](https://www.youtube.com/watch?v=otCpCn0l4Wo&ab_channel=MCHammerVevo) 
