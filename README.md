@@ -32,4 +32,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markraitman&layout=compact" alt="markraitman" /></a> </p>
 
-[![MasterBottom](https://smashswift.com/wp-content/uploads/2019/04/pass-by-reference.gif)](https://youtu.be/otCpCn0l4Wo?t=14) 
+[![MasterBottom](https://smashswift.com/wp-content/uploads/2019/04/pass-by-reference.gif)](https://youtu.be/otCpCn0l4Wo?t=15) 
