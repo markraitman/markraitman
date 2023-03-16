@@ -1,4 +1,4 @@
-[![MasterHead](https://www.lexone.ru/storage/2021/11/ios-developer.jpg)](https://developer.apple.com/tutorials/app-dev-training)
+[![MasterHead](https://www.lexone.ru/storage/2021/11/ios-developer.jpg)](https://www.youtube.com/watch?v=rog8ou-ZepE&ab_channel=vanillaiceVEVO)
 
 <h1 align="left">Hi 👋, I'm Mark Raitman</h1>
 <h3 align="left">A passionate iOS developer 🧑🏻‍💻</h3>
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/markraitman](https://github.com/markraitman)
 
-- 📫 How to reach me **markraitman@mail.ru**
+- 📫 How to reach me **markraitman@mail.ru**, **raitmanmark@gmail.com**
 
 - ⚡ Fun fact: [**The green code in The Matrix was actually created from symbols in the code designer’s wife’s sushi cookbook.**](https://www.cnet.com/culture/entertainment/lego-ninjago-movie-simon-whiteley-matrix-code-creator/)
 
