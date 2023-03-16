@@ -1,4 +1,4 @@
-[![MasterHead](https://www.lexone.ru/storage/2021/11/ios-developer.jpg)](https://www.youtube.com/watch?v=rog8ou-ZepE&ab_channel=vanillaiceVEVO)
+[![MasterHead](https://www.lexone.ru/storage/2021/11/ios-developer.jpg)](https://youtu.be/rog8ou-ZepE?t=14)
 
 <h1 align="left">Hi 👋, I'm Mark Raitman</h1>
 <h3 align="left">A passionate iOS developer 🧑🏻‍💻</h3>
