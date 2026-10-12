@@ -6,11 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **UDEMY iOS & Swift course by Dr. Angela Yu**
-
 - 👨‍💻 All of my projects are available at [github.com/markraitman](https://github.com/markraitman)
 
-- 📫 How to reach me **markraitman@mail.ru**, **raitmanmark@gmail.com**
+- 📫 How to reach me **markraitman@mail.ru**
 
 - ⚡ Fun fact: [**The green code in The Matrix was actually created from symbols in the code designer’s wife’s sushi cookbook.**](https://www.cnet.com/culture/entertainment/lego-ninjago-movie-simon-whiteley-matrix-code-creator/)
 
@@ -18,7 +16,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/markraitman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markraitman" height="30" width="40" /></a>
 <a href="https://instagram.com/markraitman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="markraitman" height="30" width="40" /></a>
-<a href="https://medium.com/@markraitman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@markraitman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
